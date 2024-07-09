@@ -1,0 +1,30 @@
+pwd,Print working directory,1
+ls,List files and directories in current working directory,1
+cd,Change current working directory,1
+mkdir,Create a directory,1
+rmdir,Delete a directory,1
+rm,Delete a file,1
+cp,Copy,1
+mv,Move a file,1
+ssh,Secure Shell,2
+scp,transfers files from local to remote repository,2
+man,displays user manual,2
+g++,GNU c++ compiler,2
+gcc,GNU Compiler Collection,2
+make, compiles different program pieces and builds a final executable,2
+ps,process status,2
+kill,terminate processes manually,2
+top,table of process,2
+who,get information about currently logged in user on to system,3
+chmod,change mode,3
+cat,concatenate,3
+alias, instructs the shell to replace one string with another string while executing the commands,3
+chown,change owner,3
+df,reports how much disk space your filesystem is using,3
+grep, Global Regular Expression Print,3
+echo,used to display line of text or string that are passed as an argument,2
+find,helps you find things and not just by filename,4
+clear,clears the terminal screen,1
+diff,allows you to compare two files line by line,2
+env,shows your current environment,4
+free,shows information about available memory,3
