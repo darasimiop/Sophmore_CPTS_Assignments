@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -g CMakeFiles/PA3.dir/main.cpp.o -o PA3 
