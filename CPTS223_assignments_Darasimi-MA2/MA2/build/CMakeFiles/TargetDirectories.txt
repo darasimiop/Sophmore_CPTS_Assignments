@@ -1,0 +1,3 @@
+/mnt/c/Users/daras/OneDrive/Desktop/CPTS 223/MA2/build/CMakeFiles/MA2.dir
+/mnt/c/Users/daras/OneDrive/Desktop/CPTS 223/MA2/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/daras/OneDrive/Desktop/CPTS 223/MA2/build/CMakeFiles/rebuild_cache.dir
